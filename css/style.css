@@ -1,0 +1,90 @@
+h1 { 
+    font-size: 20px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'oswald', sans-serif;
+}
+
+nav ul {
+    list-style: none;
+    background-color: #3f3e36;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+nav li {
+    font-size: 1.2em;
+    line-height: 40px;
+    height: 40px;
+    display: inline-block;
+    margin: 2.5%
+}
+
+nav a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    display: block;
+
+}
+
+nav a:hover {
+    background-color: white;
+    color: #4a4a4f;
+}
+
+.card {
+    float: left;
+    width: 20%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    margin-top: 2.5%;
+    margin-bottom: 2.5%;
+}
+
+.card-two {
+    float: left;
+    width: 28%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    margin-top: 2.5%;
+    margin-bottom: 2.5%;
+
+}
+
+.card-three {
+    float: left;
+    width: 11.5%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    margin-top: 2.5%;
+    margin-bottom: 2.5%;
+}
+
+.card a {
+    text-align: center;
+}
+
+.card-two a {
+    text-align: center;
+}
+
+.card-three a {
+    text-align: center;
+}
+
+img { 
+    width: 100%;  
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    margin-right: 10px;
+    margin-top: 10px;
+}
